@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ActualPenny3935
+- 👀 I’m interested in coding discord bots mostly in Python but some JavaScript
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on A discrod bot
+- 📫 How to reach me My discord is - ActualPenny3935#2305
